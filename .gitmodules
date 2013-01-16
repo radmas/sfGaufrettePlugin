@@ -3,4 +3,4 @@
 	url = git://github.com/KnpLabs/Gaufrette.git
 [submodule "lib/vendor/aws-sdk"]
 	path = lib/vendor/aws-sdk
-	url = http://github.com/amazonwebservices/aws-sdk-for-php
+	url = http://github.com/radmas/aws-sdk-for-php
